@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, red, #0412db);
+    
+}   
+.container{
+    display: grid;
+    place-items: center;
+    margin: 250px;
+    
+}
+h1{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+li{
+    font-size: 70px;
+    list-style: none;
+}
+.imagem{
+    background-color: aqua;
+    padding: 50px;
+}
+img{
+    width: 400px;
+}
+button a{
+    text-decoration:none;
+    padding-bottom: 60px;
+}
